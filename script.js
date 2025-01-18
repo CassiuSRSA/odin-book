@@ -37,7 +37,7 @@ function addBooksToTable(booksArray) {
       }')"><i class="fa-solid fa-glasses"></i></button></td>
       </tr>`;
   });
-  console.log(newHTML);
+  
   tableBody.innerHTML = newHTML;
 }
 
